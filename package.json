@@ -9,7 +9,7 @@
   "dependencies": {
     "async": "^2.1.2",
     "loader-utils": "^0.2.3",
-    "webpack-sources": "^0.1.0"
+    "webpack-sources": "^0.2.3"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
